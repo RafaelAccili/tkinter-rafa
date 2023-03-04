@@ -30,3 +30,4 @@ root= tk.Tk()
 Entrada(root).grid()
 root.resizable(False, False)
 root.mainloop()
+"""esto es una prueba"""
